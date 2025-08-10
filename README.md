@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Actualmente me desempeño como Analista de Datos en el área de operaciones de una importante cadena hotelera<br>🐍Estoy profundizando mis conocimientos en Python<br>🤖También me interesa el desarrollo móvil en Android<br>☕Me interesa también aprender más de Java<br>📽️Mi película y serie favoritas son: Matrix y Mr. Robot
+💻Actualmente me desempeño como Modelador de Datos para el proyecto de migración de datos de una importante entidad bancaria del Perú.<br>🐍Estoy profundizando mis conocimientos en Ingeniería de Datos (Azure y Databricks).<br>☕Me interesa también aprender de Ciberseguridad.<br>📽️Mi película y serie favoritas son: Matrix y Mr. Robot
 
 
 ## 🌐 Socials:
